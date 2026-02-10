@@ -24,3 +24,4 @@ Titanic Dataset
 - Professional project structuring
 
 #Output:
+<img width="662" height="172" alt="Image" src="https://github.com/user-attachments/assets/534a3e25-f637-4524-aca4-4fbddea366ae" />
